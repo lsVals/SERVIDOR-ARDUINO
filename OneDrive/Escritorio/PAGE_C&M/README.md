@@ -108,12 +108,16 @@ python -m http.server 8000
 
 ## 🌐 Demo en Vivo
 
+**🎯 Visita la demo online:** https://lsvals.github.io/Caffeymiga/
+
 Una vez iniciado el proyecto:
 1. **Navega** por el menú de productos
 2. **Agrega** items al carrito
 3. **Selecciona** método de pago
 4. **Completa** la compra con Mercado Pago
 5. **Recibe** confirmación por WhatsApp
+
+> **Nota:** La demo online muestra el frontend completo. Para pagos reales, necesitas configurar el backend localmente.
 
 ## 🎯 Métodos de Pago Disponibles
 
@@ -309,7 +313,7 @@ gunicorn -w 4 -b 0.0.0.0:3000 main:app
 
 ### Comunidad
 - 💬 [Stack Overflow - Mercado Pago](https://stackoverflow.com/questions/tagged/mercado-pago)
-- 🐛 [Reportar Issues](https://github.com/tu-usuario/caffe-y-miga/issues)
+- 🐛 [Reportar Issues](https://github.com/lsVals/Caffeymiga/issues)
 - 📧 Contacto: [tu-email@dominio.com]
 
 ### Tecnologías Utilizadas
